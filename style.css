@@ -517,6 +517,9 @@ body ul {
 .item #terceiro{
   display: none;
 }
+.section-jewels{
+  max-width: 350px;
+}
 .grid-item img{
   max-width: 330px;
 }
@@ -539,6 +542,8 @@ body ul {
 }
 .section-second ul{
   text-align: start;
+  padding:2px;
+  font-size: 14px;
 }
 .item1 img{
   margin:0 auto;
